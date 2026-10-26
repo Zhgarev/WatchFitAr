@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.WatchFitAR" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#A8DAD0</item>
+        <item name="android:statusBarColor">#0D1420</item>
+        <item name="android:navigationBarColor">#0D1420</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
